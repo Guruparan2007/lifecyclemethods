@@ -27,8 +27,9 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 
-```
+
 Program to print the text “Hello World”.
+```
 Developed by: GURUPARAN G
 Registeration Number : 212224220030
 ```
@@ -132,7 +133,7 @@ public class MainActivity extends AppCompatActivity {
 <img width="1917" height="1198" alt="Screenshot 2026-10-26 233131" src="https://github.com/user-attachments/assets/e5d004d9-a24c-4e9c-8dde-67f38e906cce" />
 
 
-## onCreate
+## onCreate()
 <img width="1917" height="1198" alt="Screenshot 2026-10-26 233332" src="https://github.com/user-attachments/assets/4c844ef8-7e2a-4087-a833-cdb8cdba302c" />
 
 
